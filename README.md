@@ -1,6 +1,6 @@
 * Win conditions are checked after each successful drop
 * Player turn is passed after each successful drop
-* The main loop (in `play()` handles I/O)
+* The main loop (in `play()`) handles I/O
 * The unit test suite can be expanded upon, it's mainly there to ensure that the game is still correctly evaulated after any potential refactorings.
 * The test suite can be run with `python3 -m unittest test_connect_four -v` and currently verifies:
     - Input validation
