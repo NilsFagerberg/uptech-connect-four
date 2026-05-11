@@ -6,6 +6,6 @@
     - Input validation
     - "Horizontal" win condition for both players (with offsets, e.g. X X X X . . . up to . . . X X X X)
     - "Vertical" win conditions for both players
-    - Both diagonal win conditions for both players with offsets ("norhtwest" to "southeast" and "southwest" to "northeast")
+    - Both diagonal win conditions for both players with offsets ("northwest" to "southeast" and "southwest" to "northeast")
     - Some validation of the initial game state
 * If you have failing tests after a refactor, you can uncomment the "debugprint" calls in the failing test to see the board state after each game turn for the test. 
